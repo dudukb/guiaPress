@@ -2,7 +2,7 @@
 
 Guia Press é um projeto de blog com nodejs 
 
-<img src="public/2.png"/>
+<img src="public/2.png"></img>
 
 
 ## Implantação em produção
