@@ -2,6 +2,8 @@
 
 Guia Press é um projeto de blog com nodejs 
 
+<img src="public/2.png"/>
+
 
 ## Implantação em produção
 - Banco de dados: mysql
