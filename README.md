@@ -16,5 +16,4 @@ npm install sequelize --save
 
 # executar o projeto
 nodemon index.js
-```
 
